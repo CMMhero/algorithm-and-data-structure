@@ -1,0 +1,5 @@
+a) Rehashing dilakukan agar terhindar dari collision yang mungkin terjadi
+b) Berdasarkan gambar di atas, rehashing dilakukan saat hash table telah terpenuhi lebih dari atau sama dengan 70%.
+c) Dalam melakukan rehashing, kita harus menentukan size baru untuk hash table, lalu kita masukkan masing-masing data ke hash function dengan size baru. Setelah itu, angka serta data yang dihasilkan hash function dimasukkan ke dalam hash table yang baru.
+d) Sieve of Eratosthenes adalah algoritma untuk mencari semua bilangan prima dalam range angka tertentu.
+e) Size yang baru berupa bilangan prima terkecil yang lebih besar dari 2x size sebelumnya.
